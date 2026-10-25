@@ -1,5 +1,7 @@
 text on Windows and Linux
 
 int main(void){
+	int x;
+	int c;
 	return 0;
 }
