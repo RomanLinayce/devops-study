@@ -3,5 +3,6 @@ text on Windows and Linux
 int main(void){
 	int x;
 	int c;
+	char n;
 	return 0;
 }
